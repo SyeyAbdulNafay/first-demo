@@ -1,4 +1,4 @@
 # first-demo
 my first git repository
 <br>
-another sample
+another
